@@ -1,6 +1,6 @@
 # AICO — студенческий сайт
 
-Опубликован: https://tikhonov-cmd.github.io/student/
+Опубликован: https://tikhonov-cmd.github.io/aico-student-map/
 
 Три страницы: `index.html` — главная, `route.html` — маршрут, `method.html` — метод исследования.
 Статический сайт без сборки. Общие стили — `student.css`; интерактивные примеры — `product-demo.js`; оглавление метода — `method.js`.
