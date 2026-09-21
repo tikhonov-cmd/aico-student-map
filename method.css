@@ -17,7 +17,7 @@
 .a-section-head>p{font-size:16px;line-height:1.55;margin-bottom:24px}
 .a-method-content h3{font-size:18px;line-height:1.4;margin-bottom:8px}
 .a-method-content h4{font-size:16px;line-height:1.4;margin-bottom:8px}
-.a-method-content p{font-size:16px;line-height:1.55;text-wrap:pretty}
+.a-method-content p{font-size:16px;line-height:1.55;text-wrap:balance}
 .a-method-content p:last-child{margin-bottom:0}
 .a-method-content .a-section-head>p{margin-bottom:24px}
 .a-method-pair,.a-data-grid{border:1px solid var(--rule);border-radius:var(--radius);overflow:clip}
@@ -27,7 +27,7 @@
 .a-inline-status{display:block;color:var(--muted);font-size:12px;font-weight:400;line-height:1.5;letter-spacing:0;margin-top:4px}
 .a-method-content details{border-bottom:1px solid var(--rule)}
 .a-method-content details:first-child{border-top:1px solid var(--rule)}
-.a-method-content summary{position:relative;display:grid;grid-template-columns:32px minmax(0,1fr) 20px;gap:4px 12px;min-height:72px;padding:16px 0;font-size:16px;text-wrap:pretty}
+.a-method-content summary{position:relative;display:grid;grid-template-columns:32px minmax(0,1fr) 20px;gap:4px 12px;min-height:72px;padding:16px 0;font-size:16px;text-wrap:balance}
 .a-design-code,.a-measure-code{grid-column:1;grid-row:1;align-self:start;color:var(--blue);font-size:14px;font-variant-numeric:tabular-nums;padding-top:2px}
 .a-design-title,.a-measure-title{grid-column:2;grid-row:1;font-weight:600}
 .a-design-row summary .a-inline-status,.a-measure-status{grid-column:2;color:var(--muted);font-size:12px;line-height:1.5;margin:0}
