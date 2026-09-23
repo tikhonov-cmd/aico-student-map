@@ -91,6 +91,7 @@ button svg,a svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-wid
 .demo-purpose{font-size:14px;line-height:1.5;color:var(--muted);margin-bottom:16px}
 .demo-content{border-top:1px solid var(--rule);padding-top:16px}
 .demo-content h4{font-size:20px;margin-bottom:12px}
+.demo-content h5{font-size:16px;line-height:1.4;margin:24px 0 8px;text-wrap:balance}
 .demo-content p{font-size:16px;line-height:1.5;margin-bottom:12px}
 .demo-content p:last-child{margin-bottom:0}
 .demo-caption{font-size:12px;line-height:1.5;color:var(--muted);text-align:left;margin:12px 0 0 calc(var(--controls-width) + 1px)}
